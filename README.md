@@ -1,6 +1,7 @@
 This project applies machine learning to identify trustworthy NGOs, enabling donors to make informed and transparent giving decisions.
 By analyzing key indicators such as organizational age, fund utilization ratio, public rating, social media followers, and location, 
 the system predicts the trustworthiness of an NGO using a data-driven and unbiased approach.
+
 📌 Features
 Synthetic NGO dataset with relevant trust indicators.
 Implements Random Forest, Logistic Regression, and K-Nearest Neighbors classifiers.
